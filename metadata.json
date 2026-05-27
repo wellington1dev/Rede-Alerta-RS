@@ -1,0 +1,6 @@
+{
+  "name": "Coordenação de Voluntários",
+  "description": "Sistema de gestão e coordenação de voluntários em áreas afetadas por enchentes, auxiliando a conectar necessidades urgentes com suporte voluntário.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
